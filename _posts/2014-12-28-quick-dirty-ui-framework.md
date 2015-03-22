@@ -6,7 +6,7 @@ modified: 2014-12-28
 tags: [uiautomation, capybara, pageobjectpattern, webdriver]
 ---
 
- I built a quick and dirty UI test framework for testing web application UIs which could serve the purpose at hand. The frameworks has 3 layers, specs, pages and page_uis... Before I proceed... if you are already thinking about, how it is different from "Page Object Pattern", here is what I have to say. IMHO, Page Object Pattern is quite over-rated.
+ I built a quick and dirty UI test framework for testing web application UIs which could serve the purpose at hand. The frameworks has 3 layers, specs, pages and page_uis. specs layer consists of the business specifications, pages encapsulate the page operations and page_uis encapsulate UI models of pages.
 
 ###The heart of the framework
 
