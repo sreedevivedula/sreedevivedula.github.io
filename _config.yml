@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
-header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Technology. Testing. Thoughts."
+title: Carpe Diem
+author: Sreedevi Vedula
+# header-img: img/home-bg.jpg
+email: suryasreevedula@gmail.com
+description: "Technology Blog"
 baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
+twitter_username: suryasreevedula
 github_username:  sreedevivedula
-facebook_username:  IronSummitMedia
 
 # Build settings
 markdown: kramdown
