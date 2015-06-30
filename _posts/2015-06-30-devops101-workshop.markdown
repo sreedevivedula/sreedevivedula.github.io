@@ -10,7 +10,6 @@ header-img: "img/devops101-workshop.jpg"
 vodQA is a conference by ThoughtWorks for Quality Enthusiasts. In it's 2015 edition at Bengaluru, I conducted a workshop on DevOps 101 with a team, which talked about the below topics.
 
 Workshop Topics
----------------
 1. Intro to DevOps and Infrastructure As Code
 2. Virtualization and Vagrant
 3. Configuration Management
