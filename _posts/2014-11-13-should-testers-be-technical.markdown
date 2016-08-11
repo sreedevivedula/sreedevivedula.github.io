@@ -60,3 +60,5 @@ But, that is easier said than done. The challenges that testers could be facing 
 Future of testing does not seem to be easy for manual testers. As they wait more, things are only going to be harder! The first step is always the hardest one to take. But it will reap great benefits and make testing an enjoyable experience.
 
 Note: In this blog post, the word "manual testers" is used for testers who are entirely non-technical and stick with manual testing of applications. This in no way refers to the manual testing activities / efforts involved in applications.
+
+The above blog post sprung a debate in the ThoughtWorks testing community which is captured in an insights blog post [here](https://www.thoughtworks.com/insights/blog/should-testers-be-technical?utm_campaign=software-testing&utm_medium=social&utm_source=twitter)

@@ -4,7 +4,7 @@ title:      "DevOps 101 Workshop"
 subtitle:   "@ vodQA 2015, Bengaluru"
 date:       2015-04-13
 author:     "Sreedevi Vedula"
-header-img: "img/devops101-workshop.jpg"
+header-img: ""
 ---
 
 vodQA is a conference by ThoughtWorks for Quality Enthusiasts. In it's 2015 edition at Bengaluru, I conducted a workshop on DevOps 101 with a team, which talked about the below topics.
